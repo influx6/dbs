@@ -1,0 +1,22 @@
+{
+  "name": "dbs",
+  "version": "0.0.1",
+  "description": "a simple data store for client side usage",
+  "main": "dbs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/influx6/dbs"
+  },
+  "keywords": [
+    "dbs"
+  ],
+  "author": "ALexander Adeniyin Ewetumo",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/influx6/dbs/issues"
+  },
+  "homepage": "https://github.com/influx6/dbs"
+}
